@@ -1,0 +1,6 @@
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/bin/Debug/Coding_Assessment.exe
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/bin/Debug/Coding_Assessment.pdb
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/obj/Debug/Coding_Assessment.csproj.AssemblyReference.cache
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/obj/Debug/Coding_Assessment.csproj.CoreCompileInputs.cache
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/obj/Debug/Coding_Assessment.exe
+/Users/leonouwou/Projects/Coding_Assessment/Coding_Assessment/obj/Debug/Coding_Assessment.pdb
